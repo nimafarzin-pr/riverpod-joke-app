@@ -12,6 +12,7 @@ development content:
 
 - clean architecture
 - custom widgets
+- dio
 - bottom navigation tab and navigation with go_router
 - riverpod state management 
 - used some usefull package like freezed and flutter-script and also flutter_screenutil
