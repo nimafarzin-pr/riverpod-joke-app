@@ -1,16 +1,18 @@
-# riverpod_joke_app
+# riverpod-joke-app
 
-A new Flutter project.
+![Project!](joke_overview.png)
+
+A Flutter project about clean architecture and state managment with riverpod and efficient tools.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with riverpod.
 
-A few resources to get you started if this is your first Flutter project:
+development content:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- clean architecture
+- custom widgets
+- bottom navigation tab and navigation with go_router
+- riverpod state management 
+- used some usefull package like freezed and flutter-script and also flutter_screenutil
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
