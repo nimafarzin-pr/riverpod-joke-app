@@ -1,0 +1,7 @@
+{
+    // if want to dont show freezed generated file then add below code if not comment that
+    "files.exclude": {
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true
+    },
+}
